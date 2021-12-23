@@ -10,6 +10,7 @@ namespace Lab4._2
     {
         static void Main(string[] args)
         {
+            int b = Int32.Parse(Console.ReadLine());
         }
     }
 }
