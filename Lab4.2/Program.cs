@@ -13,6 +13,8 @@ namespace Lab4._2
             int a = Int32.Parse(Console.ReadLine());
             int b = Int32.Parse(Console.ReadLine());
 
+            int f = a * b;
+
             int d = a - b;
 
             int c = a + b; 
